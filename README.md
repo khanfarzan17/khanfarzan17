@@ -1,6 +1,6 @@
-<h3 align="left">My name is FARZAN KHAN , and I am a passionate .NET Full Stack Web Developer currently employed at SLK Software. I wanted to take a moment to introduce myself and share some information about my background and skills.</h3>
+<h5 align="left">My name is FARZAN KHAN , and I am a passionate .NET Full Stack Web Developer currently employed at SLK Software. I wanted to take a moment to introduce myself and share some information about my background and skills.</h5>
 
-<h4 align="left">In terms of programming languages, I have a strong command over C, C++, C#, and Python. This versatile skill set allows me to tackle a wide range of challenges, both on the front end and the back end of web development projects. On the front end, I am experienced in crafting engaging user experiences using HTML, CSS, and JavaScript. This ensures that the websites I work on are not only functional but also visually appealing and intuitive.</h4>
+<h5 align="left">In terms of programming languages, I have a strong command over C, C++, C#, and Python. This versatile skill set allows me to tackle a wide range of challenges, both on the front end and the back end of web development projects. On the front end, I am experienced in crafting engaging user experiences using HTML, CSS, and JavaScript. This ensures that the websites I work on are not only functional but also visually appealing and intuitive.</h5>
 
 <h5 align="left">When it comes to the back end, I am well-versed in working with MySQL Server, which allows me to efficiently manage and structure the databases that power web applications. Additionally, my familiarity with DevOps practices adds another layer of proficiency to my skill set.</h5>
 
