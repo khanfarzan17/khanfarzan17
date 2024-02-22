@@ -1,10 +1,7 @@
-<h5 align="left">My name is FARZAN KHAN, and I am a passionate .NET Full Stack Web Developer currently employed at SLK Software. I wanted to take a moment to introduce myself and share some information about my background and skills.</h5>
+<h5 align="left">My name is FARZAN KHAN, and I am a passionate DOT NET Full Stack Web Developer currently employed at SLK Software. I wanted to take a moment to introduce myself and share some information about my background and skills.</h5>
 
-<h5 align="left">In terms of programming languages, I have a strong command over C, C++, C#, and Python. This versatile skill set allows me to tackle a wide range of challenges, both on the front end and the back end of web development projects. On the front end, I am experienced in crafting engaging user experiences using HTML, CSS, and JavaScript. This ensures that the websites I work on are not only functional but also visually appealing and intuitive.</h5>
 
-<h5 align="left">When it comes to the back end, I am well-versed in working with MySQL Server, which allows me to efficiently manage and structure the databases that power web applications. Additionally, my familiarity with DevOps practices adds another layer of proficiency to my skill set.</h5>
 
-<h5 align="left">I have hands-on experience with Jenkins, enabling me to streamline the development process and ensure smooth collaboration within development teams. I am also a dedicated cloud enthusiast with a strong interest in Amazon Web Services (AWS). Cloud computing has revolutionized the way we deploy and manage applications, and I am excited about leveraging AWS services to build scalable and reliable solutions.</h5>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,6 +24,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> \
+  
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+
+
   
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
