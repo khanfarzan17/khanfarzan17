@@ -57,6 +57,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=khanfarzan17&theme=gruvbox" alt="Layout with last medium posts"  />
+</div>
 
+###
 
 ###
