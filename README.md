@@ -3,7 +3,9 @@
 ###
 
 <div align="left">
-
+ <p>
+   I'm a Full Stack Developer skilled in React JS, Jest, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, ASP.NET Core MVC, Postman, Unit Testing, and AWS. I have experience working with various technologies and frameworks to build dynamic and interactive web applications.
+ </p>
   
 </div>
 
