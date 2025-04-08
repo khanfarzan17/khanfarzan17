@@ -50,6 +50,15 @@
 
 ###
 
+<div>
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanfarzan17&show_icons=true&locale=en&layout=compact" alt="khanfarzan17" /></p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfarzan17&show_icons=true&locale=en" alt="khanfarzan17" /></p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanfarzan17&" alt="khanfarzan17" /></p>
+</div>
+
 ###
 
 <div align="left">
